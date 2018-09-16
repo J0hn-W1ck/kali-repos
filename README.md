@@ -27,6 +27,8 @@ Si desea ejecutarlo desde cualquier directorio de la terminal haga lo sigiente.
 
 ~# sudo mv kali-repos repos
 
+~# sudo chmod 777 repos
+
 ~# sudo mv repos /usr/local/bin  
 
 ~# sudo repos
